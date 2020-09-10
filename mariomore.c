@@ -34,12 +34,6 @@ int main(void)
             printf("#");
         }
 
-        //Specifies the number of empty spaces in each line
-        for (int w = 0; w < n - j - 1 ; w++)
-        {
-            printf(" ");
-        }
-
         printf("\n");
     }
 }
